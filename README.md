@@ -4,7 +4,7 @@ _Note: choose your own set of [accounts packages](https://www.meteor.com/account
 
 - Router: [iron:router](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)
 - Restrict some routes: [zimme:iron-router-auth](https://github.com/zimme/meteor-iron-router-auth/)
-- Colletion schemas: [aldeed:collection2](https://github.com/aldeed/meteor-collection2/)
+- Collection schemas: [aldeed:collection2](https://github.com/aldeed/meteor-collection2/)
 - Adds timestamps to records: [zimme:collection-timestampable](https://github.com/zimme/meteor-collection-timestampable/)
 - User accounts UI: [useraccounts:core](http://useraccounts.meteor.com/)
 - Forms: [aldeed:autoform](https://github.com/aldeed/meteor-autoform)
