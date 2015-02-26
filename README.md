@@ -1,3 +1,5 @@
+`meteor add parlay:starter-pack`
+
 _Note: choose your own set of [accounts packages](https://www.meteor.com/accounts) and your preferred [accounts ui package](http://useraccounts.meteor.com/)._
 
 - Router: [iron:router](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)
