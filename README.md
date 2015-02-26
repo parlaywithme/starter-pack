@@ -12,4 +12,6 @@ _Note: choose your own set of [accounts packages](https://www.meteor.com/account
 - Make HTTP requests: [http](http://docs.meteor.com/#/full/http_call)
 - Dates in JS: [momentjs:moment](http://momentjs.com/)
 
+### Want more?
+
 See the [full-pack](https://github.com/parlaywithme/full-pack) for more packages, both those included in `parlay:full-pack` and some extra recommendations.
