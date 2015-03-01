@@ -1,7 +1,7 @@
 Package.describe({
   name: 'parlay:starter-pack',
-  version: '1.0.0',
-  summary: 'The bare essentials of parlay:full-pack 🍎☕️',
+  version: '1.0.3_2',
+  summary: 'Packages! The bare essentials of parlay:full-pack 🍎☕️',
   git: 'https://github.com/parlaywithme/starter-pack.git',
   documentation: 'README.md'
 });
